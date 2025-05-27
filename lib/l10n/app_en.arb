@@ -1,0 +1,169 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flappy Bird",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "playerId": "Player ID",
+  "@playerId": {
+    "description": "Label for player ID input"
+  },
+  "enterNickname": "Enter your game nickname",
+  "@enterNickname": {
+    "description": "Hint text for player ID input"
+  },
+  "selectDifficulty": "Select Difficulty",
+  "@selectDifficulty": {
+    "description": "Difficulty selection label"
+  },
+  "easy": "Easy",
+  "@easy": {
+    "description": "Easy difficulty"
+  },
+  "normal": "Normal",
+  "@normal": {
+    "description": "Normal difficulty"
+  },
+  "hard": "Hard",
+  "@hard": {
+    "description": "Hard difficulty"
+  },
+  "highScore": "High Score: {score}",
+  "@highScore": {
+    "description": "High score display",
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "startGame": "Start Game",
+  "@startGame": {
+    "description": "Start game button"
+  },
+  "gameOver": "Game Over",
+  "@gameOver": {
+    "description": "Game over title"
+  },
+  "newRecord": "🎉 New Record!",
+  "@newRecord": {
+    "description": "New high score message"
+  },
+  "score": "Score: {score}",
+  "@score": {
+    "description": "Score display",
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "tryAgain": "Try Again",
+  "@tryAgain": {
+    "description": "Retry button"
+  },
+  "backToHome": "Back to Home",
+  "@backToHome": {
+    "description": "Return to home button"
+  },
+  "playerIdRequired": "Please enter Player ID",
+  "@playerIdRequired": {
+    "description": "Player ID required message"
+  },
+  "aboutVersion": "Version 1.0.0",
+  "@aboutVersion": {
+    "description": "App version"
+  },
+  "aboutDescription": "A Flutter-based Flappy Bird game demonstration showcasing game development with the Flame engine.",
+  "@aboutDescription": {
+    "description": "About app description"
+  },
+  "aboutPurpose": "Created for learning and demonstration purposes of Flutter game development.",
+  "@aboutPurpose": {
+    "description": "App purpose description"
+  },
+  "aboutAuthor": "Author: Evil0ctal",
+  "@aboutAuthor": {
+    "description": "Author information"
+  },
+  "aboutDate": "Created: May 27, 2025",
+  "@aboutDate": {
+    "description": "Creation date"
+  },
+  "aboutOpenSource": "View on GitHub",
+  "@aboutOpenSource": {
+    "description": "Open source link text"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close button"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "soundEffects": "Sound Effects",
+  "@soundEffects": {
+    "description": "Sound effects toggle"
+  },
+  "soundEffectsDesc": "Jump, score, and collision sounds",
+  "@soundEffectsDesc": {
+    "description": "Sound effects description"
+  },
+  "backgroundMusic": "Background Music",
+  "@backgroundMusic": {
+    "description": "Background music toggle"
+  },
+  "backgroundMusicDesc": "Relaxing game music",
+  "@backgroundMusicDesc": {
+    "description": "Background music description"
+  },
+  "soundVolume": "Sound Volume",
+  "@soundVolume": {
+    "description": "Sound volume label"
+  },
+  "musicVolume": "Music Volume",
+  "@musicVolume": {
+    "description": "Music volume label"
+  },
+  "linesOfCode": "Lines of Code",
+  "@linesOfCode": {
+    "description": "Lines of code stat"
+  },
+  "supportedLanguages": "Languages",
+  "@supportedLanguages": {
+    "description": "Supported languages stat"
+  },
+  "funLevel": "Fun Level",
+  "@funLevel": {
+    "description": "Fun level stat"
+  },
+  "aboutFlutterPowered": "Powered by Flutter & Flame Engine",
+  "@aboutFlutterPowered": {
+    "description": "Flutter powered message"
+  },
+  "aboutGameDescription": "Experience the classic Flappy Bird gameplay reimagined with modern Flutter technology. Features smooth animations, particle effects, multiple difficulty levels, and global high score tracking.",
+  "@aboutGameDescription": {
+    "description": "Game description"
+  },
+  "developerName": "Evil0ctal",
+  "@developerName": {
+    "description": "Developer name"
+  },
+  "developerTitle": "Flutter Game Developer",
+  "@developerTitle": {
+    "description": "Developer title"
+  },
+  "developerMessage": "Thanks for playing! This game showcases Flutter's capabilities for game development. Feel free to explore the source code and create your own amazing games!",
+  "@developerMessage": {
+    "description": "Developer message"
+  },
+  "viewSourceCode": "View Source",
+  "@viewSourceCode": {
+    "description": "View source code button"
+  },
+  "backToGame": "Back to Game",
+  "@backToGame": {
+    "description": "Back to game button"
+  }
+}
