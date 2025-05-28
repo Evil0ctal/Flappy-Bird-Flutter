@@ -7,6 +7,31 @@
 
 > 🎓 **完整的Flutter游戏开发教程项目** - 从零基础到完整游戏，手把手教你使用Flutter和Flame引擎开发现代移动游戏
 
+## 📸 游戏截图
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/home_screen.png" width="250" alt="主菜单界面"/>
+      <br/>主菜单界面
+    </td>
+    <td align="center">
+      <img src="screenshots/gameplay.png" width="250" alt="游戏进行中"/>
+      <br/>游戏进行中
+    </td>
+    <td align="center">
+      <img src="screenshots/game_over.png" width="250" alt="游戏结束界面"/>
+      <br/>游戏结束界面
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/settings.png" width="250" alt="设置界面"/>
+      <br/>设置界面
+    </td>
+  </tr>
+</table>
+
 ## 📚 教程概述
 
 这是一个专为**初学者设计的Flutter游戏开发教程项目**。通过重新制作经典的Flappy Bird游戏，你将学到：
