@@ -29,11 +29,15 @@
       <img src="screenshots/settings.png" width="250" alt="设置界面"/>
       <br/>设置界面
     </td>
-  </tr>
     <td align="center">
       <img src="screenshots/info.png" width="250" alt="信息界面"/>
       <br/>信息界面
     </td>
+    <td align="center">
+      <img src="screenshots/game_play.gif" width="250" alt="游戏运行动图"/>
+      <br/>游戏运行动图
+    </td>
+  </tr>
 </table>
 
 ## 📚 教程概述
