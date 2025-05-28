@@ -30,6 +30,10 @@
       <br/>设置界面
     </td>
   </tr>
+    <td align="center">
+      <img src="screenshots/info.png" width="250" alt="信息界面"/>
+      <br/>信息界面
+    </td>
 </table>
 
 ## 📚 教程概述
